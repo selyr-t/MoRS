@@ -1,0 +1,36 @@
+# OS files
+.DS_Store
+
+# Folder paths
+/audio_processed/
+/audio_source/
+/externals/
+/**/__pycache__/
+/**/*.pyc
+/**/cmake-build-*/
+/mors.egg-info
+
+# JUCE Projucer generated projects
+/Builds/
+/*.sln
+/*.vcxproj
+/*.vcxproj.filters
+/*.xcodeproj
+/*.xcworkspace
+
+# CMake out-of-source builds
+/build/
+/cmake-build-*/
+/bin/
+/obj/
+/CMakeCache.txt
+/CMakeFiles/
+
+# IDE metadata
+*.user
+*.suo
+
+# Temporary audio junk
+*.wav~
+*.aif~
+*.aiff~

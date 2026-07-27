@@ -1,0 +1,54 @@
+
+**********************************************************
+mors log
+Log started: 27 Jul 2026 3:18:09pm
+
+[MorsDebug] Logger initialized: /Users/edwardryles/dev/MoRS/debug/mors_2026_07_27_15h18m09s.log
+                                                                                                                             
+2026-07-27 15:18:09.745 |   INFO |   AUDIO_FILE |   MorsFile.cpp:34 |   ~AudioFile
+-----------------------------------------------------------------------------------------------------------------------------
+AudioFile::~AudioFile(): destroying | bufferSamples = 0 | bufferChannels = 0 | sampleRate = 0.00
+                                                                                                                             
+2026-07-27 15:18:09.747 |   INFO |   AUDIO_FILE |   MorsFile.cpp:34 |   ~AudioFile
+-----------------------------------------------------------------------------------------------------------------------------
+AudioFile::~AudioFile(): destroying | bufferSamples = 0 | bufferChannels = 0 | sampleRate = 0.00
+                                                                                                                             
+2026-07-27 15:18:09.750 |   INFO |   AUDIO_FILE |   MorsFile.cpp:34 |   ~AudioFile
+-----------------------------------------------------------------------------------------------------------------------------
+AudioFile::~AudioFile(): destroying | bufferSamples = 0 | bufferChannels = 0 | sampleRate = 0.00
+                                                                                                                             
+2026-07-27 15:18:09.752 |   INFO |   AUDIO_FILE |   MorsFile.cpp:34 |   ~AudioFile
+-----------------------------------------------------------------------------------------------------------------------------
+AudioFile::~AudioFile(): destroying | bufferSamples = 0 | bufferChannels = 0 | sampleRate = 0.00
+                                                                                                                             
+2026-07-27 15:18:09.754 |   INFO |   AUDIO_FILE |   MorsFile.cpp:34 |   ~AudioFile
+-----------------------------------------------------------------------------------------------------------------------------
+AudioFile::~AudioFile(): destroying | bufferSamples = 0 | bufferChannels = 0 | sampleRate = 0.00
+                                                                                                                             
+2026-07-27 15:18:09.757 |   INFO |   AUDIO_FILE |   MorsFile.cpp:34 |   ~AudioFile
+-----------------------------------------------------------------------------------------------------------------------------
+AudioFile::~AudioFile(): destroying | bufferSamples = 0 | bufferChannels = 0 | sampleRate = 0.00
+                                                                                                                             
+2026-07-27 15:18:09.759 |   INFO |   AUDIO_FILE |   MorsFile.cpp:34 |   ~AudioFile
+-----------------------------------------------------------------------------------------------------------------------------
+AudioFile::~AudioFile(): destroying | bufferSamples = 0 | bufferChannels = 0 | sampleRate = 0.00
+                                                                                                                             
+2026-07-27 15:18:09.762 |   INFO |   AUDIO_FILE |   MorsFile.cpp:34 |   ~AudioFile
+-----------------------------------------------------------------------------------------------------------------------------
+AudioFile::~AudioFile(): destroying | bufferSamples = 0 | bufferChannels = 0 | sampleRate = 0.00
+                                                                                                                             
+2026-07-27 15:18:09.764 |   INFO |   AUDIO_FILE |   MorsFile.cpp:34 |   ~AudioFile
+-----------------------------------------------------------------------------------------------------------------------------
+AudioFile::~AudioFile(): destroying | bufferSamples = 0 | bufferChannels = 0 | sampleRate = 0.00
+                                                                                                                             
+2026-07-27 15:18:09.767 |   INFO |   AUDIO_FILE |   MorsFile.cpp:34 |   ~AudioFile
+-----------------------------------------------------------------------------------------------------------------------------
+AudioFile::~AudioFile(): destroying | bufferSamples = 0 | bufferChannels = 0 | sampleRate = 0.00
+                                                                                                                             
+2026-07-27 15:18:09.769 |   INFO |   AUDIO_FILE |   MorsFile.cpp:34 |   ~AudioFile
+-----------------------------------------------------------------------------------------------------------------------------
+AudioFile::~AudioFile(): destroying | bufferSamples = 0 | bufferChannels = 0 | sampleRate = 0.00
+                                                                                                                             
+2026-07-27 15:18:09.771 |   INFO |   AUDIO_FILE |   MorsFile.cpp:34 |   ~AudioFile
+-----------------------------------------------------------------------------------------------------------------------------
+AudioFile::~AudioFile(): destroying | bufferSamples = 0 | bufferChannels = 0 | sampleRate = 0.00
